@@ -79,5 +79,3 @@ If you have any questions, suggestions, or feedback, you can reach out to the pr
 - Email: [daradeprashant1212@gmail.com](mailto:daradeprashant1212@gmail.com)
 
 
-## 📝 License 
-This project is [MIT](./LICENSE) licensed.
