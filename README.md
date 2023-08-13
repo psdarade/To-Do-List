@@ -37,7 +37,7 @@ Getting Started
 To get started with this project, follow these steps:
 
 Clone the repository:
-git clone 
+git clone https://github.com/psdarade/To-Do-List.git
 Open the project in your preferred code editor.
 
 Launch the index.html file in a web browser to view the home page.
