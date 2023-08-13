@@ -54,18 +54,18 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/psdarade/To-Do List.git
+git clone https://github.com/psdarade/To-Do-List.git
 ```
 
 2. Open the project in your preferred code editor.
 
-3. Launch the `index.html` file in a web browser to view the Netflix home page.
+3. Launch the `index.html` file in a web browser to view the home page.
 
 4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
 
 ## 🤝 Contributing 
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page] (/issues).
 
 ## ⭐️ Show your support 
 
@@ -73,7 +73,7 @@ Give a ⭐️ if you like this project!
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer at:
 
 - Name : [Prashant Darade](https://www.linkedin.com/in/psdarade/)
 - Email: [daradeprashant1212@gmail.com](mailto:daradeprashant1212@gmail.com)
